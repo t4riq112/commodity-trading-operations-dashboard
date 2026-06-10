@@ -1,0 +1,2 @@
+Trade_ID,Product,Direction,Quantity,Broker_Quantity,Quantity_Difference,PnL
+2,Gold,Sell,20,19,1,1000.0

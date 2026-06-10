@@ -1,0 +1,4 @@
+Trade_ID,Product,Direction,Quantity,Trade_Price,Current_Price,PnL,Status
+1,Crude Oil,Buy,100,72.5,75.0,250.0,Profit
+2,Gold,Sell,20,3350.0,3300.0,1000.0,Profit
+3,Natural Gas,Buy,50,3.2,3.5,14.999999999999991,Profit
